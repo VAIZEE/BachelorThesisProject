@@ -1,9 +1,0 @@
-{
-	"RemapUnityFiles": 
-	{
-		"Module.DTrackInput.cpp.obj": [
-			"DTrackFlystickInputDevice.cpp.obj",
-			"DTrackInputModule.cpp.obj"
-		]
-	}
-}
