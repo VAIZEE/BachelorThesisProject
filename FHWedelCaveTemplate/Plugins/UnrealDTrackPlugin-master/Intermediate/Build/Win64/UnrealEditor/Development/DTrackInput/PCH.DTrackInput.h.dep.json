@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\flara\\onedrive\\dokumente\\githubprojects\\bachelorthesisproject\\fhwedelcavetemplate\\plugins\\unrealdtrackplugin-master\\intermediate\\build\\win64\\unrealeditor\\development\\dtrackinput\\pch.dtrackinput.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\flara\\onedrive\\dokumente\\githubprojects\\bachelorthesisproject\\fhwedelcavetemplate\\plugins\\unrealdtrackplugin-master\\intermediate\\build\\win64\\unrealeditor\\development\\dtrackinput\\pch.dtrackinput.h",
+            "c:\\users\\flara\\onedrive\\dokumente\\githubprojects\\bachelorthesisproject\\fhwedelcavetemplate\\plugins\\unrealdtrackplugin-master\\source\\dtrackinput\\private\\dtrackinputprivatepch.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

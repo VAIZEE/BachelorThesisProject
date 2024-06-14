@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\flara\\OneDrive\\Dokumente\\GitHubProjects\\BachelorThesisProject\\FHWedelCaveTemplate\\Plugins\\UnrealDTrackPlugin-master\\Source\\DTrackInput\\DTrackInput.Build.cs",
+		"C:\\Users\\flara\\OneDrive\\Dokumente\\GitHubProjects\\BachelorThesisProject\\FHWedelCaveTemplate\\Plugins\\UnrealDTrackPlugin-master\\Source\\DTrackPlugin\\DTrackPlugin.Build.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

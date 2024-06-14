@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DTrackPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\flara\OneDrive\Dokumente\GitHubProjects\BachelorThesisProject\FHWedelCaveTemplate\Plugins\UnrealDTrackPlugin-master\Intermediate\Build\Win64\UnrealEditor\Development\DTrackPlugin\PCH.DTrackPlugin.h.obj"
+"C:\Users\flara\OneDrive\Dokumente\GitHubProjects\BachelorThesisProject\FHWedelCaveTemplate\Plugins\UnrealDTrackPlugin-master\Intermediate\Build\Win64\UnrealEditor\Development\DTrackPlugin\Module.DTrackPlugin.cpp.obj"
+"C:\Users\flara\OneDrive\Dokumente\GitHubProjects\BachelorThesisProject\FHWedelCaveTemplate\Plugins\UnrealDTrackPlugin-master\Intermediate\Build\Win64\UnrealEditor\Development\DTrackPlugin\Default.rc2.res"
+/OUT:"C:\Users\flara\OneDrive\Dokumente\GitHubProjects\BachelorThesisProject\FHWedelCaveTemplate\Plugins\UnrealDTrackPlugin-master\Intermediate\Build\Win64\UnrealEditor\Development\DTrackPlugin\UnrealEditor-DTrackPlugin.lib"
