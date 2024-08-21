@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DTrackInput.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\cgt104878\Documents\GitHub\UE5_FHWedelCAVETemplate\FHWedelCaveTemplate\Plugins\UnrealDTrackPlugin-master\Intermediate\Build\Win64\UnrealEditor\Development\DTrackInput\PCH.DTrackInput.h.obj"
+"C:\Users\cgt104878\Documents\GitHub\UE5_FHWedelCAVETemplate\FHWedelCaveTemplate\Plugins\UnrealDTrackPlugin-master\Intermediate\Build\Win64\UnrealEditor\Development\DTrackInput\Module.DTrackInput.cpp.obj"
+"C:\Users\cgt104878\Documents\GitHub\UE5_FHWedelCAVETemplate\FHWedelCaveTemplate\Plugins\UnrealDTrackPlugin-master\Intermediate\Build\Win64\UnrealEditor\Development\DTrackInput\Default.rc2.res"
+/OUT:"C:\Users\cgt104878\Documents\GitHub\UE5_FHWedelCAVETemplate\FHWedelCaveTemplate\Plugins\UnrealDTrackPlugin-master\Intermediate\Build\Win64\UnrealEditor\Development\DTrackInput\UnrealEditor-DTrackInput.lib"

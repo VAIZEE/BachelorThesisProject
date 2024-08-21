@@ -1,0 +1,12 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\cgt104878\\Desktop\\BachelorThesisSwarm\\Plugins\\UnrealDTrackPlugin-master\\Source\\DTrackInput\\DTrackInput.Build.cs",
+		"C:\\Users\\cgt104878\\Desktop\\BachelorThesisSwarm\\Plugins\\UnrealDTrackPlugin-master\\Source\\DTrackPlugin\\DTrackPlugin.Build.cs",
+		"C:\\Users\\cgt104878\\Desktop\\BachelorThesisSwarm\\Intermediate\\Source\\BachelorThesisSwarm.Build.cs",
+		"C:\\Users\\cgt104878\\Desktop\\BachelorThesisSwarm\\Intermediate\\Source\\BachelorThesisSwarm.Target.cs",
+		"C:\\Users\\cgt104878\\Desktop\\BachelorThesisSwarm\\Intermediate\\Source\\BachelorThesisSwarmClient.Target.cs",
+		"C:\\Users\\cgt104878\\Desktop\\BachelorThesisSwarm\\Intermediate\\Source\\BachelorThesisSwarmEditor.Target.cs",
+		"C:\\Users\\cgt104878\\Desktop\\BachelorThesisSwarm\\Intermediate\\Source\\BachelorThesisSwarmServer.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}
